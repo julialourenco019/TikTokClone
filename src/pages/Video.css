@@ -1,0 +1,12 @@
+.Video{
+   /*background-color: aqua;*/
+    height: 100vh;
+    width: 100%;
+    scroll-snap-type: start;
+    position: relative;
+}
+.video__player{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
